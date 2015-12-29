@@ -1,0 +1,7 @@
+This folder should contain:
+
+ca65.exe
+ld65.exe
+
+from the 'CC65' compiler package (cc65-win32-2.13.2-1.zip) to be found at http://www.cc65.org/
+
