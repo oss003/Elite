@@ -52,3 +52,4 @@ General:
 * ESC = Restart (in pause mode)
 * CPY = Pause mode
 * DEL = Resume game
+
